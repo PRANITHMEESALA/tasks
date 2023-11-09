@@ -1,0 +1,20 @@
+.time-selector {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.labelFlex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.labelFlex > * {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.graphSelection {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,12 @@
+{
+    "orders": [
+        {
+             "customerId":1,
+             "orderType":"cake",
+             "quantity":2,
+             "orderState":"created",
+             "lastUpdatedTime":"1699289111330",
+             "branch":"kukatpally"
+        }
+    ]
+}

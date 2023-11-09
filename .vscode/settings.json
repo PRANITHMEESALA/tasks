@@ -1,0 +1,7 @@
+{
+  "emmmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.fontWeight": "normal",
+  "editor.formatOnType": true
+}
